@@ -34,3 +34,9 @@ Assuming your project (Virtual Env)  named "Discord" on your Desktop.
 	
 
 ## You should see the (Discord) indicating your in your virtual env now 
+
+
+
+## Links below for documentation on discord API
+
+* https://discordpy.readthedocs.io/en/latest/api.html#

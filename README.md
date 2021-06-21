@@ -29,5 +29,8 @@ Assuming your project (Virtual Env)  named "Discord" on your Desktop.
         
 	$ discord source discord/bin/activate
 
+	$ pip install -U discord.py
+
+	
 
 ## You should see the (Discord) indicating your in your virtual env now 

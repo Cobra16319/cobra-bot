@@ -1,6 +1,9 @@
 # bot.py
 import os
 import random
+# Testing new sub-processes
+import subprocess
+
 
 from discord.ext import commands
 from dotenv import load_dotenv
@@ -23,5 +26,16 @@ async def nine_nine(ctx):
 
     response = random.choice(brooklyn_99_quotes)
     await ctx.send(response)
+
+# Second Test prints data from cmtest (Now need to export to discord)
+
+subprocess.call(['python', 'cmtest.py'])
+print('results')
+
+
+
+
+
+
 
 bot.run(TOKEN)

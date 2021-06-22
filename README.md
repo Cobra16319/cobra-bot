@@ -1,10 +1,10 @@
 # Cobra-Bot
 
 
-Discord-Bot project in python for my server. Plan to keep working on it and open source.
+Working simple python discord bot. Adding function with a python wrapper from coin market cap to create a custom crypto discord bot 
 
 
-# Install python and your IDE. 
+# Install python and your IDE (Phase I get a discord bot working locally)
 
 # You need the Following 
 
@@ -16,7 +16,7 @@ Discord-Bot project in python for my server. Plan to keep working on it and open
 
 Setting up
 ------------
-Assuming your project (Virtual Env)  named "Discord" on your Desktop.
+Assuming your project (Virtual Env)  named "Discord" on your Desktop. (I will be adding a section to use Vault for keys.) Ensure you use your discord keys in a safe way for dev.
 
 ### Starting from scratch
 	$ easy_install pip
@@ -31,7 +31,7 @@ Assuming your project (Virtual Env)  named "Discord" on your Desktop.
 
 	$ pip install -U discord.py
 
-	
+	$ python bot.py 
 
 ## You should see the (Discord) indicating your in your virtual env now 
 

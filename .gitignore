@@ -110,7 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 discord/
-
+*.env
 # Spyder project settings
 .spyderproject
 .spyproject

@@ -1,14 +1,10 @@
-# Nomad-Demo
-Fun Demo to get up and running with Nomad, it uses consul and terraform modules from the Terraform Module Registry
+# Terraform, Consul, Packer and Nomad to provion Crypto Bot on AWS
+
 
 ## This AMI can be used for learning; update if you want to use in production. It has a current version of Nomad and Packer at time of commit
 
-## Pull in the module and it will create 42 resources and setup all the routes and security groups for 9 instances running on AWS with auto-scaling and Consul and Nomad already configured. 
+## Pull in the module and it will create 42 resources and setup all the routes and security groups for 9 instances running on AWS with auto-scaling and Consul and Nomad already configured. Scale down as needed. (Adding Vault soon) 
 
-
-```
-$ git pull https://github.com/Cobra16319/Nomad-Demo.git
-```
 
 ```
 $ cd /packer

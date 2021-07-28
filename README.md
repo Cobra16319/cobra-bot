@@ -1,3 +1,6 @@
+[![CodeQL](https://github.com/Cobra16319/cobra-bot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Cobra16319/cobra-bot/actions/workflows/codeql-analysis.yml)
+
+
 # Cobra-Bot
 
 
